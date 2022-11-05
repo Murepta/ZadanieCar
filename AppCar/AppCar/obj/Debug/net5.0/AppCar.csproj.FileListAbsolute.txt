@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\bin\Debug\net5.0\AppCar.exe
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\bin\Debug\net5.0\AppCar.deps.json
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\bin\Debug\net5.0\AppCar.runtimeconfig.json
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\bin\Debug\net5.0\AppCar.runtimeconfig.dev.json
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\bin\Debug\net5.0\AppCar.dll
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\bin\Debug\net5.0\ref\AppCar.dll
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\bin\Debug\net5.0\AppCar.pdb
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\obj\Debug\net5.0\AppCar.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\obj\Debug\net5.0\AppCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\obj\Debug\net5.0\AppCar.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\obj\Debug\net5.0\AppCar.AssemblyInfo.cs
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\obj\Debug\net5.0\AppCar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\obj\Debug\net5.0\AppCar.dll
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\obj\Debug\net5.0\ref\AppCar.dll
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\obj\Debug\net5.0\AppCar.pdb
+C:\Users\user\Desktop\Проекы\AppCar\AppCar\obj\Debug\net5.0\AppCar.genruntimeconfig.cache
